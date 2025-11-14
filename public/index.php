@@ -91,7 +91,7 @@ $filtered = array_filter($data, function($v) use ($filterVastutaja, $filterPrice
 </form>
 
 
-<h2>Lisa uus vara</h2>
+<h2>Lisa us vara</h2>
 <form method="post">
     <input type="text" name="nimetus" placeholder="Nimetus" required>
     <input type="text" name="seisund" placeholder="Seisund" required>
