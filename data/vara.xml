@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dim1>
+    <dim2>
+        <dim3>
+            <vara>
+                <id>1</id>
+                <nimetus>Sülearvuti</nimetus>
+                <seisund>Hea</seisund>
+                <maksumus>1200.00</maksumus>
+                <vastutaja>Maria</vastutaja>
+                <ostukuupäev>2023-01-15</ostukuupäev>
+                <asukoht>Ruumi 101</asukoht>
+                <markus>Kontorikasutuses</markus>
+            </vara>
+            <vara>
+                <id>2</id>
+                <nimetus>Monitor</nimetus>
+                <seisund>Keskmine</seisund>
+                <maksumus>300.00</maksumus>
+                <vastutaja>Roma</vastutaja>
+                <ostukuupäev>2022-11-02</ostukuupäev>
+                <asukoht>Ruumi 102</asukoht>
+                <markus></markus>
+            </vara>
+        </dim3>
+    </dim2>
+</dim1>

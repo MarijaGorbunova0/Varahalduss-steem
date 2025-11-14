@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "nimetus": "S\u00fclearvuti",
+        "seisund": "Hea",
+        "maksumus": 1200,
+        "vastutaja": "Maria",
+        "ostukuup\u00e4ev": "2023-01-15",
+        "asukoht": "Ruumi 101",
+        "markus": "Kontorikasutuses"
+    },
+    {
+        "id": "2",
+        "nimetus": "Monitor",
+        "seisund": "Keskmine",
+        "maksumus": 300,
+        "vastutaja": "Roma",
+        "ostukuup\u00e4ev": "2022-11-02",
+        "asukoht": "Ruumi 102",
+        "markus": ""
+    }
+]
